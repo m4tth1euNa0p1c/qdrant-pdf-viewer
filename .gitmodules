@@ -1,0 +1,3 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:m4tth1euNa0p1c/qdrant-pdf-viewer.git
